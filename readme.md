@@ -1,10 +1,8 @@
-# Hi there 👋
-I'm Tien-Son – a passionate IT student learning and building cool stuff in **Computer Science**.
+# 👋 
+I'm Tien-Son Nguyen. Currently, I have some quite cool plans related to **Computer Science**.
 
 ## About Me
 - 🎓 Studies at University of Science, VNUHCM.
-- 🎯 Current goal: Craft a real 16bits Computer.
-- 🌱 Learning: `Computer Architecture`, `Data Structures and Algorithms`.
 
 ## Projects
 - [Caro Game](https://github.com/unclenui/CSC00004-Caro)
