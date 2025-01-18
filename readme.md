@@ -1,19 +1,10 @@
-# 👋 
-I'm Tien-Son Nguyen. Currently, I have some quite cool plans related to **Computer Science**.
+# weeweew
+Who: Tien-Son Nguyen.
+When: 2006
+Where: VNUHCM, University of Science, 24TNT1TN.
+Why: By chance.
+How: You're asking too many questions!
 
-## About Me
-- 🎓 Studies at University of Science, VNUHCM.
-
-## Projects
-- [Caro Game](https://github.com/unclenui/CSC00004-Caro)
-
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=unclenui&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=unclenui&layout=compact)
-
-![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-## Let's Connect
-- 📧 Email: tienson19273@gmail.com
+#Trivial Hobbies: Light Novel, Manga, Music.
+#Status: Suffering.
+#Goals: to no longer suffer, esp. in Machine Learning.
