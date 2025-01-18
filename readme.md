@@ -18,3 +18,7 @@
 **Status:** Suffering.
 
 **Goals:** to no longer suffer, esp. in Machine Learning.
+
+# funni space
+
+![til](funni.gif)
