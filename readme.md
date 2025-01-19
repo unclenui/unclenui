@@ -19,6 +19,6 @@
 
 **Goals:** to no longer suffer, esp. in Machine Learning.
 
-# funni space
+# my waifu (!)
 
 ![til](funni.gif)
