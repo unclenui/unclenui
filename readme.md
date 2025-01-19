@@ -9,7 +9,7 @@
 
 **Why:** By chance.
 
-**How:** You're asking too many questions wtf.
+**How:** You've been asking too many questions wtf.
 
 # random stuff
 
