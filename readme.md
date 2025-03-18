@@ -1,24 +1,5 @@
-# about me
-**What:** Miserable man.
+Hi there,
 
-**Who:** Tien-Son Nguyen.
+I'm Son - University of Science VNUHCM, Vietnam - 24TNT1TN
 
-**When:** 2006.
-
-**Where:** VNUHCM, University of Science, 24TNT1TN.
-
-**Why:** By chance.
-
-**How:** You've been asking too many questions wtf.
-
-# random stuff
-
-**Trivial Hobbies:** Light Novel, Manga, Music.
-
-**Status:** Suffering.
-
-**Goals:** to no longer suffer, esp. in Machine Learning.
-
-# my waifu (!)
-
-![til](funni.gif)
+Status: Unemployed, Passionate about ML
